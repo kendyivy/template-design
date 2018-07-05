@@ -1,0 +1,155 @@
+.main{
+  width:530px;
+  height: 600px;
+  background-color:#ffffff;
+  border:2px solid #3a3a3a;
+  margin: 0px auto;
+  margin-top: 30px;
+
+}
+h1{
+  font-family: 'Open Sans Condensed', sans-serif;
+  position: relative;
+  left:20px;
+  font-size: 50px;
+  letter-spacing: 4px;
+  bottom: -35px;
+}
+h2{
+   font-family: 'Open Sans Condensed', sans-serif;
+   color: #0fb0ab;
+   position: relative;
+   left:20px;
+   font-size: 70px;
+   bottom: 30px;
+}
+h3{
+  font-family: 'Dancing Script', cursive;
+  font-size: 60px;
+  position: relative;
+  bottom:70px;
+  left: 20px;
+  font-weight: 10px;
+
+}
+h4{
+   font-family: 'Dancing Script', cursive;
+   font-size: 70px;
+   position: relative;
+   bottom: 120px;
+   left: 50px;
+}
+h5{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #0fb0ab;
+    font-size: 70px;
+    position: relative;
+    bottom: 190px;
+    left:210px;
+}
+.main p{
+  position: relative;
+  bottom: 250px;
+  left: 20px;
+  color: #545454;
+}
+.one{
+  width:200px;
+  height:200px;
+  background-color: #909090;
+  position: relative;
+  bottom:820px;
+  left: 220px;
+  transform: rotate(-15deg);
+}
+.vertical-line{
+  width:1px;
+  height: 200px;
+  background-color: #ffffff;
+  position: relative;
+  left:100px;
+}
+.horizontal-line{
+  width:1px;
+  height: 200px;
+  background-color:#ffffff;
+  position: relative;
+  transform:rotate(90deg);
+  bottom:200px;
+  left:100px;
+}
+.two{
+  width:200px;
+  height:200px;
+  background-color: #909090;
+  position:relative;
+  bottom:950px;
+  left: 310px;
+}
+.three{
+  width:200px;
+  height:200px;
+  background-color: #909090;
+  position: relative;
+  bottom:1020px;
+  left:260px;
+
+}
+.trans{
+  width:200px;
+  height: 130px;
+  background-color: #f1f1f1;
+  position: relative;
+  bottom: 1300px;
+  left: 275px;
+  opacity: 0.5;
+
+}
+.fa-arrow-left{
+  height: 30px;
+    
+
+}
+.word{
+  width: 200px;
+  height: 50px;
+  color: #129f99;
+  font-size:25px;
+  text-align: center;
+}
+.word2{
+  color: #a1c565;
+  text-align: center;
+  position: relative;
+  bottom: 28px;
+  font-size: 25px;
+}
+.con{
+  color:#129f99;
+  font-size: 25px;
+  position:relative;
+  bottom:38px;
+  text-align: center;
+}
+.fa-long-arrow-up{
+  position: relative;
+  left: 120px;
+  top: 40px;
+}
+.fa-long-arrow-down{
+  position: relative;
+  right:100px;
+  top: 50px;
+
+}
+.fa-long-arrow-right{
+  position: relative;
+  top: 100px;
+  left: 15px;
+
+}
+.fa-long-arrow-left{
+  position: relative;
+  left:80px;
+
+}
